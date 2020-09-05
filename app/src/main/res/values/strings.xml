@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">homework 2</string>
+    <string name="count_down_to_election_day">Count Down To Election Day</string>
+    <string name="days">Days</string>
+    <string name="hour">Hour</string>
+    <string name="minutes">Minutes</string>
+    <string name="seconds">Seconds</string>
+    <string name="next">Next</string>
+    <string name="enter_your_id_card_number">Enter your ID card number</string>
+    <string name="voter_audit">Voter Audit</string>
+</resources>

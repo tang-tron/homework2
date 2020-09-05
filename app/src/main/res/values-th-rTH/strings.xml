@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">homework 2</string>
+    <string name="next" translatable="false">ถัดไป</string>
+    <string name="seconds">วินาที</string>
+    <string name="minutes" translatable="false">นาที</string>
+    <string name="hour">ชั่วโมง</string>
+    <string name="days">วัน</string>
+    <string name="count_down_to_election_day">นับถอยหัลงวันเลือกตั้ง</string>
+    <string name="enter_your_id_card_number">กรอกเลขบัตรประชาชน</string>
+    <string name="voter_audit">"ตรวจสอบสิทธิเลือกตั้ง "</string>
+</resources>
